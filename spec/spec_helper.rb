@@ -22,4 +22,3 @@ def read_file(file_name)
   data = file.read
   file.close
   return data
-end
